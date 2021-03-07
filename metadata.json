@@ -2,7 +2,7 @@
   
           "name": "Linkpool",
           "ticker": "LINK",
-          "homepage": "http://www.link-pool.io/"
+          "homepage": "http://www.link-pool.io/",
           "description": "The Link Pool Network",
           "extended": "https://github.com/link-pool/link-pool/extended.json"
   
